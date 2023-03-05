@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginning on Vedita Kamat</title>
+    <link>http://example.org/tags/beginning/</link>
+    <description>Recent content in Beginning on Vedita Kamat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Mar 2023 14:12:08 +0530</lastBuildDate><atom:link href="http://example.org/tags/beginning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 05 Mar 2023 14:12:08 +0530</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hola visitors!Link to headingI&amp;rsquo;m Vedita Kamat.Link to headingI am an avid learner and coding enthusiast. I enjoy problem solving and logical thinking. I believe in the power of technology to revolutionize lives.
+I also find my interests in content writing and theatre arts.</description>
+    </item>
+    
+    <item>
+      <title>My first blog </title>
+      <link>http://example.org/posts/welcome/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/welcome/</guid>
+      <description>#One morning, when Gregor Samsa woke from troubled dreams. One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover strong it and seemed ready to slide off any moment.</description>
+    </item>
+    
+  </channel>
+</rss>
